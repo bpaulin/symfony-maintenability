@@ -48,5 +48,11 @@
         "branch-alias": {
             "dev-master": "2.4-dev"
         }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*@stable",
+        "phpmd/phpmd": "*@stable",
+        "sebastian/phpcpd": "*@stable",
+        "phing/phing": "*@stable"
     }
 }
